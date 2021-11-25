@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is Matusalem, but you can call me TUSA.
 
-- 🔭 I’m currently working on trying to build strongs skills on AI, more specifically on Computer Vision, Machine Learning and Deep Learning.
-- 🌱 I’m currently learning Artifical Intelligence. On the process python became my favorite programming language. I'm also doing some udemy courses or python and data  science.
-- 👯 I’m looking to collaborate on any data science project.
+-  I’m currently working on trying to build strongs skills on AI, more specifically on Computer Vision, Machine Learning and Deep Learning.
+-  I’m currently learning Artifical Intelligence. On the process python became my favorite programming language. I'm also doing some Udemy, Udacity and Coursera courses on python and data science.
+-  I’m looking to collaborate on any data science project.
 <!--
 **matusalemcassim/matusalemcassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

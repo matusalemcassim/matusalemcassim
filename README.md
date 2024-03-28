@@ -1,16 +1,3 @@
-### Hi there 👋 my name is Matusalem, but you can call me TUSA.
+🔍 Data Scientist & Engineer | Azure & ML Specialist 🔍
 
--  I’m currently working on trying to build strongs skills on AI, more specifically on Computer Vision, Machine Learning and Deep Learning.
--  I’m currently learning Artifical Intelligence. On the process python became my favorite programming language. I'm also doing some Udemy, Udacity and Coursera courses on python and data science.
--  I’m looking to collaborate on any data science project.
-<!--
-**matusalemcassim/matusalemcassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring the nexus of data science and engineering, I specialize in the Azure ecosystem, machine learning, and data-driven solutions. With 2.7+ years at Keyrus Brasil and currently enhancing data capabilities at New Tech Soluções, my journey is about transforming data into actionable insights through classification, regression, web scraping, and sentiment analysis, all powered by Python.

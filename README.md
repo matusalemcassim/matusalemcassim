@@ -15,11 +15,13 @@ Data Pipeline Optimization, ML Deployment
 Streamlining data workflows with Azure Integration Service.
 Deploying scalable ML models with Azure ML.
 Crafting bespoke data solutions for complex business challenges.
+
 🌱 I'm learning:
 
 Advanced techniques in machine learning and AI.
 Expanding my knowledge in data engineering practices.
 Staying ahead with the latest in Azure services and tools.
+
 🤝 Looking to collaborate on:
 
 Projects leveraging Azure for data science and engineering solutions.
